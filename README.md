@@ -3,7 +3,7 @@
 - FullName: Phan Khắc Cường (Tony)
 - Experience
     * Student of: University Infomation Technology (UIT)
-    * Middle of : MoMo Wallet (M_Service)
+      
 
 ### Languages
 ![ReactNative](http://img.shields.io/badge/-React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
