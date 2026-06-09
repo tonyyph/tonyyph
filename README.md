@@ -65,7 +65,7 @@ Building scalable, high-performance mobile applications with a strong focus on u
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tonyyph&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonyyph&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonyyph&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 ### 🔥 GitHub Streak
