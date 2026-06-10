@@ -71,7 +71,7 @@ Building scalable, high-performance mobile applications with a strong focus on u
 ### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=tonyyph&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=tonyyph&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
