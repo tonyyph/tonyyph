@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Tony
+# Hi there 👋, I'm Phan Khắc Cường - (Tony Phan)
 
 ### Senior React Native Developer
 
